@@ -30,7 +30,7 @@ opt-level = 0
 debug = true
 
 [dependencies]
-thiserror = "2.0.11"
+thiserror = "2.0.12"
 chrono = "0.4.40"
 
 [dev-dependencies]
